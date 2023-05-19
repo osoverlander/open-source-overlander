@@ -56,3 +56,4 @@ https://www.kitcampers.co/diypopupv2
  Kit Camper的80/20铝合金 + Hiatus的硬升顶
  反思想折腾的另外一个重要原因就是：特别羡慕小朋友家的建造模型，但只能是去人家的时候才能玩。这次总算能自己玩一票了。。。
  
+![](./sagesse_wisdom.png)
