@@ -2,6 +2,8 @@
 ## 防水
 问题：因为不是焊接，所以接缝地方可能会漏水？
 问题：slot前后通透很烦，只能加盖？
+
+
 ## 保温
 问题：没想好到底是2"保温，1"保温，还是0"。多数情况0"足够了，但万一走北极公路呢？
 ## 结构
@@ -40,7 +42,7 @@
 ### 参考链接
 
 [FORD F-150 CAB HEIGHT BED RACK](https://cbioffroadfab.com/product/ford-f-150-cab-height-bed-rack-6-5-bed-2004-2020/)
-
+[安装车厢盖，参考其中的防水处理](https://www.youtube.com/watch?v=i6Q86sAC4UQ)
 
 ## 尾门
 问题：原车尾门比较宽。当前方案是尽量后移，让箱体遮挡住尾门的远端，但防尘又是问题，并且立柱等于是悬空了。有可能买一个Leer shell的防尘罩子？
