@@ -17,6 +17,7 @@
 
 不采用Hitus的梯形结构，车内空间太小。
 
+
 ### 当前方案BOM：
 1" x 3" 固定轨道 x 2
 
@@ -34,6 +35,11 @@
 问题3：需要拆掉车帮的塑料板找平？
 
 问题4: 是否要增加更多支撑
+
+### 参考链接
+
+[FORD F-150 CAB HEIGHT BED RACK](https://cbioffroadfab.com/product/ford-f-150-cab-height-bed-rack-6-5-bed-2004-2020/)
+
 
 ## 尾门
 问题：原车尾门比较宽。当前方案是尽量后移，让箱体遮挡住尾门的远端，但防尘又是问题，并且立柱等于是悬空了。有可能买一个Leer shell的防尘罩子？
