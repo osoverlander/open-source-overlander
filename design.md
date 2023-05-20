@@ -10,6 +10,12 @@
 问题：受力分析
 问题：螺丝太多容易松动，Lockrite?
 
+## 板材
+Kit Camp: 3mm Aluminum Composite Panel，重，不保温，强度好，施工简单
+
+自制三明治：1/2木板+1"泡沫板+0.050"铝板，Loctite PL Premium
+https://www.youtube.com/watch?v=FhsTJpMADJE&list=PLMCvRxq4QdccLFEd53JSsRaGNk18nGeMF&index=4
+
 # 箱体
 
 ## 箱体结构
