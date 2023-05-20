@@ -3,12 +3,18 @@
 问题：因为不是焊接，所以接缝地方可能会漏水？
 问题：slot前后通透很烦，只能加盖？
 
-
 ## 保温
 问题：没想好到底是2"保温，1"保温，还是0"。多数情况0"足够了，但万一走北极公路呢？
+
 ## 结构
 问题：受力分析
 问题：螺丝太多容易松动，Lockrite?
+
+### 80/20强度
+https://www.rmmc.net/8020/technical-data/#:~:text=80%2F20's%206105%2DT5*,%2C%20steel%2C%20copper%20or%20brass.
+
+![](8020-fastener-test.png)
+
 
 ## 板材
 Kit Camp: 3mm Aluminum Composite Panel，重，不保温，强度好，施工简单
