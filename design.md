@@ -11,10 +11,12 @@
 问题：螺丝太多容易松动，Lockrite?
 
 ### 80/20强度
+
 https://www.rmmc.net/8020/technical-data/#:~:text=80%2F20's%206105%2DT5*,%2C%20steel%2C%20copper%20or%20brass.
 
 ![](8020-fastener-test.png)
 
+从图表看，结构需要加强。
 
 ## 板材
 Kit Camp: 3mm Aluminum Composite Panel，重，不保温，强度好，施工简单
