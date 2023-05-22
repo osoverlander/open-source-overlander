@@ -40,6 +40,11 @@ https://www.youtube.com/watch?v=FhsTJpMADJE&list=PLMCvRxq4QdccLFEd53JSsRaGNk18nG
 
 问题：可以直接铝+XPS当车顶，不用框架吗？
 
+### Carbon Sandwich
+https://www.rockwestcomposites.com/shop/shop-by-application/marine/twill-rohacell-sandwich
+优点：轻，结实
+缺点：超级贵
+
 # 箱体
 
 ## 箱体结构
