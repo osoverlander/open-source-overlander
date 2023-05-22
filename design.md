@@ -1,7 +1,10 @@
 # 整体结构
 ## 防水
+kit camper车顶架构：多块板材拼接，ACM直接粘80/20
+
 问题：因为不是焊接，所以接缝地方可能会漏水？
 问题：slot前后通透很烦，只能加盖？
+
 
 ## 保温
 问题：没想好到底是2"保温，1"保温，还是0"。多数情况0"足够了，但万一走北极公路呢？
@@ -18,11 +21,24 @@ https://www.rmmc.net/8020/technical-data/#:~:text=80%2F20's%206105%2DT5*,%2C%20s
 
 从图表看，结构需要加强。
 
-## 板材
-Kit Camp: 3mm Aluminum Composite Panel，重，不保温，强度好，施工简单
+### 3M VHB真的可以替代铆钉？
+https://multimedia.3m.com/mws/media/764998O/iatd-product-info.pdf
 
-自制三明治：1/2木板+1"泡沫板+0.050"铝板，Loctite PL Premium
+
+
+## 板材
+### ACP/ACM (Aluminum Composite Panel/Material)铝塑板
+Kit Camp: 3mm Aluminum Composite Panel
+优点：强度好直接可以做外墙，施工简单。
+缺点：重，不保温
+
+### 自制三明治
+1/2木板+1"泡沫板+0.050"铝板，Loctite PL Premium
 https://www.youtube.com/watch?v=FhsTJpMADJE&list=PLMCvRxq4QdccLFEd53JSsRaGNk18nGeMF&index=4
+优点：保温，轻
+缺点：制作复杂，需要框架才能用
+
+问题：可以直接铝+XPS当车顶，不用框架吗？
 
 # 箱体
 
