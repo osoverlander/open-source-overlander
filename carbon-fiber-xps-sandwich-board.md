@@ -1,3 +1,7 @@
+# 目标
+
+希望用碳纤维泡沫夹芯板(Carbon Fiber XPS foam sandwich board)做一个Truck Popup的车顶，重量轻，强度大。
+
 # 实验1
 ## 原材料
 
