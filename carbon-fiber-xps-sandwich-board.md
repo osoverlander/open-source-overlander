@@ -73,3 +73,45 @@ XPS板长13", 宽6.5"
 
 * 更多层的碳纤维？
 
+
+## 图片
+
+<img src="images/carbon-fiber-xps-sandwich-board/1.jpg" width="500px">
+
+环氧树脂准备中
+
+<img src="images/carbon-fiber-xps-sandwich-board/2.jpg" width="500px">
+
+单面碳纤维粘贴。可以看到左侧转角有明显的隆起，贴合不严密
+
+<img src="images/carbon-fiber-xps-sandwich-board/3.jpg" width="500px">
+
+做过强度测试之后的夹芯板，可以看到中间明显的折痕
+
+<img src="images/carbon-fiber-xps-sandwich-board/4.jpg" width="500px">
+
+凑近看一下，折痕附近已经脱离
+
+<img src="images/carbon-fiber-xps-sandwich-board/5.jpg" width="500px">
+
+换个角度看折痕
+
+<img src="images/carbon-fiber-xps-sandwich-board/6.jpg" width="500px">
+
+再另外一块板子上测试：切一个小弧度出来，碳纤维布就可以比较好的贴合了。
+
+<img src="images/carbon-fiber-xps-sandwich-board/7.jpg" width="500px">
+
+把上面的那块碳纤维撕下来，当时转角没有涂好树脂，凑合的。转角也是拿工具刀随便割的，切面非常不平整。下次可以单独找一个小板子测试这个项目。
+
+<img src="images/carbon-fiber-xps-sandwich-board/8.jpg" width="500px">
+
+撕掉碳纤维之后的泡沫板
+
+<img src="images/carbon-fiber-xps-sandwich-board/9.jpg" width="500px">
+
+6.5" x 13" 重量 89g，那么67" x 120"的重量大约是 9173g = 20lbs
+
+<img src="images/carbon-fiber-xps-sandwich-board/10.jpg" width="500px">
+
+同等尺寸的XPS foam重量 37g。现在用的是1"的板子，如果厚度增加到2"，那么整个车顶的重量也不会超过30lbs。
