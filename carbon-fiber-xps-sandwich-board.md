@@ -5,7 +5,7 @@
 # 实验1
 ## 原材料
 
-### 发泡板：[1" XPS Board](https://www.homedepot.com/p/Owens-Corning-FOAMULAR-NGX-1-in-x-2-ft-x-2-ft-R-5-Project-Panel-XPS-Rigid-Foam-Board-Insulation-9WE/315401957)
+### XPS发泡板：[1" XPS Foam Board](https://www.homedepot.com/p/Owens-Corning-FOAMULAR-NGX-1-in-x-2-ft-x-2-ft-R-5-Project-Panel-XPS-Rigid-Foam-Board-Insulation-9WE/315401957)
 
 [产品参数](https://dcpd6wotaa0mb.cloudfront.net/mdms/dms/EIS/58307/FOAMULAR-and-FOAMULAR-NGX-600-400-1000-XPS-Product-Data-Sheet.pdf?v=1666616994000)
 
