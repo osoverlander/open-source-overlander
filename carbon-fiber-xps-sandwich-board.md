@@ -115,3 +115,19 @@ XPS板长13", 宽6.5"
 <img src="images/carbon-fiber-xps-sandwich-board/10.jpg" width="500px">
 
 同等尺寸的XPS foam重量 37g。现在用的是1"的板子，如果厚度增加到2"，那么整个车顶的重量也不会超过30lbs。
+
+<img src="images/carbon-fiber-xps-sandwich-board/11.jpg" width="500px">
+
+没有碳纤维的板子轻松踩断，有碳纤维的板子只是留下了折痕。撕掉碳纤维之后，板芯也没有断裂，表面也没有明显折痕。
+
+<img src="images/carbon-fiber-xps-sandwich-board/12.jpg" width="500px">
+
+测试两块碳纤维的连接，中间只用了非常窄的重叠。侧向用力可以撕开，但没有办法横向拉开。强度足够。
+
+<img src="images/carbon-fiber-xps-sandwich-board/13.jpg" width="500px">
+
+把碳纤维从测试板上撕下来，可以看到四周并没有树脂的痕迹。其实这是第二面的碳纤维，当时追求技术进步，树脂涂得比较少，但确认每个地方都涂到了。感觉应该是树脂和碳纤维浸润性更好，所以树脂比较薄的地方，碳纤维的经纬线自己粘合在了一起，但和发泡板就没有有效粘合了。以后可以适当尽量多用树脂，不要追求极致轻量化。
+
+<img src="images/carbon-fiber-xps-sandwich-board/14.jpg" width="500px">
+
+直角碳纤维撕下之后的效果，树脂很多，没有办法紧密连接。或者用圆角，或者要用其他东西压住，形成类似真空袋的效果才可以。
