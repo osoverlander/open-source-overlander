@@ -1,3 +1,7 @@
+# Refs link
+
+https://www.youtube.com/@ExploreComposites
+
 # 目标
 
 用碳纤维夹心板(Carbon Fiber Sandwich Board)制作一个Truck Popup的车顶。
