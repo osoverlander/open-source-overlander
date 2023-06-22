@@ -5,6 +5,8 @@ https://www.youtube.com/@ExploreComposites
 Last-a-form LA购买地点
 https://www.aircraftspruce.com/catalog/cmpages/lastafoam.php
 
+各种不同的Core对比： https://dragonplate.com/carbon-fiber-sheets-with-core
+
 # 目标
 
 用碳纤维夹心板(Carbon Fiber Sandwich Board)制作一个Truck Popup的车顶。
