@@ -7,6 +7,9 @@ https://www.aircraftspruce.com/catalog/cmpages/lastafoam.php
 
 各种不同的Core对比： https://dragonplate.com/carbon-fiber-sheets-with-core
 
+Nomex
+https://compositeenvisions.com/product/2nd-quality-dupont-nomex-honeycomb-core-material/
+
 # 目标
 
 用碳纤维夹心板(Carbon Fiber Sandwich Board)制作一个Truck Popup的车顶。
