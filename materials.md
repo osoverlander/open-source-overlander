@@ -10,6 +10,10 @@ https://www.aircraftspruce.com/catalog/cmpages/lastafoam.php
 Nomex
 https://compositeenvisions.com/product/2nd-quality-dupont-nomex-honeycomb-core-material/
 
+foam glue and nail
+
+https://www.youtube.com/watch?v=UY9glTnDDw0&t=370s
+
 # 目标
 
 用碳纤维夹心板(Carbon Fiber Sandwich Board)制作一个Truck Popup的车顶。
