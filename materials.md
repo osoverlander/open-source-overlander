@@ -14,6 +14,9 @@ foam glue and nail
 
 https://www.youtube.com/watch?v=UY9glTnDDw0&t=370s
 
+三种制作方式：手工成型（Hand Layup)，树脂浸渍（Resin Infusion)和预浸（Prepreg), Fiber/Resin基本上1:1重量
+https://www.youtube.com/watch?v=3uhR4jdFiS4
+
 # 目标
 
 用碳纤维夹心板(Carbon Fiber Sandwich Board)制作一个Truck Popup的车顶。
