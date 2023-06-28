@@ -2,7 +2,7 @@
 
 希望用碳纤维泡沫夹芯板(Carbon Fiber XPS foam sandwich board)做一个Truck Popup的车顶，重量轻，强度大。
 
-# 实验1
+# 实验1: 1" XPS Foam Board + 单层碳纤维
 ## 原材料
 
 ### XPS发泡板：[1" XPS Foam Board](https://www.homedepot.com/p/Owens-Corning-FOAMULAR-NGX-1-in-x-2-ft-x-2-ft-R-5-Project-Panel-XPS-Rigid-Foam-Board-Insulation-9WE/315401957)
@@ -126,10 +126,83 @@ XPS板长13", 宽6.5"
 
 如果用铆钉之类的连接，那么碳纤维这边应该如何处理？并且这些金属件会有电偶腐蚀（Galvanic Corrosion）问题
 
-## 下一步
 
-* 更硬的板子？
+# 实验2：1” XPS Board + 双层碳纤维
 
-* 更宽的板子？从而减少单位压强？
+多刷了一层碳纤维，已经可以轻松承受我的重量了，强度足够了
 
-* 更多层的碳纤维？
+测试样品：6.5" x 13"，压力125lbs，车子宽度68"，所以可以承受 1250lbs"，车子长度120"，具体能承受多少力不会算了。
+
+车顶本来也没准备占人，除了天窗，太阳能板，这个肯定都不是问题。
+
+如果放行李架，可以能需要单独计算。
+
+
+6.5" x 13" 重量 165g，那么67" x 120"的重量大约是 15.7kgkg = 34lbs，同样是轻如鸿毛
+
+车顶面积：3.08 * 1.78 * 2面 * 2层= 22平米
+
+# 实验3 Nomex + 双层碳纤维
+
+## 杜邦公司3/8 Nomen Honeycomb Core
+
+Nomex® honeycomb 是由 Nomex® 芳纶纤维纸制成的复合芯材。其广泛用于航空航天、建筑、军事、海洋、体育和汽车工业的众多工程和科学应用，由于其耐热性、轻质强度和耐用性，是广泛使用的理想材料。
+
+https://www.dupont.cn/nomex/what-is-nomex.html
+
+都是用在高档货上的，价格贵。1" x 4' x 8' = $800，比XPS贵了15倍左右。
+
+1/8 cell size, 3.0 lbs/ft3 density
+
+试验板芯重量：3 * 6.5/12 * 13/12 * 3/8/12 = 0.055 lbs = 24g 
+
+碳纤维重量：6.5" x 13" x 4 layer = 338 sq in = 0.218 sq meter = 48g
+
+Epoxy重量：1:1碳纤维重量 = 48g 
+
+总重量：48 + 48 + 24 = 120g
+
+## 实验结果
+
+实验结果：完全可以承受一个人的重量。
+
+对比测试：实验同时做了两组，一组是整块的Core，一组是两块Core拼接，效果没差别。
+
+<img src="images/carbon-fiber-nomex-sandwich-board/1.jpg" width="500px">
+
+厚度非常薄，但强度足够大。
+
+<img src="images/carbon-fiber-nomex-sandwich-board/2.jpg" width="500px">
+
+忽略板面的皱纹和赖疤，是用一块包肉的蜡纸做的基板，然后压了一个大铁球。
+
+教训：用圆锯切割的板边效果非常差，应该用角磨机。
+
+
+# 材料分析
+
+## 双层碳纤维重量
+
+
+车顶尺寸： 70" x 128"
+
+Nomex Core: 1/8 cell size, 3.0 lbs/ft3 density
+Total Core Weight: 70/12 * 128/12 * 1/12 * 3 = 15.55 lbs = 7.06kg
+
+Carbon Fiber Weight: 70" * 128" = 8960 sqin = 5.78 sqaure meters, x 4 = 23.1 sq meters x 220g = 5.08 kg
+Epoxy Resin = Carbon Fiber Weight * 1.2 = 6kg
+Skin Materials Weight: 11.08kg
+
+XPS 150 1.2lbs/ft3, 400 2lbs/ft3, 600 2.4lbs/ft3
+Core Weight: 70/12 * 128/12 * 2/12 * 2.4 = 24.89 lbs = 11.28kg
+
+Total Roof Weight: 11.08 + 11.28 = 22.36kg = 49.29 lbs
+
+https://commercial.owenscorning.com/uploadedFiles/foam/products/Commercial%20Property%20Directory%20of%20Physical%20Properties.pdf
+
+
+
+For hand Layups, the fiber / resin ratio is usually ~50% at best. For exact science, one would say 207 grams of fiber is the same as 207 grams of mixed resin. But if you are estimating, it is
+better to use a higher figure to ensure there is enough resin for a job. The ratio is always going to be proportional to this ratio.
+
+https://compositeenvisions.com/document/resin-to-fiber-ratio-explained/
